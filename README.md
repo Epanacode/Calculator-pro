@@ -35,3 +35,17 @@ It includes basic arithmetic operations, a backspace, clear, decimal support, an
 ```bash
 git clone https://github.com/Epanacode/CalculatorPro.git
 cd CalculatorPro
+```
+<hr/>
+
+💻Author:
+ 
+ **Epanacode**
+ 
+*Python Developer | Django & Telegram Bot Enthusiast*
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/Epanacode)
+
+
+
+
