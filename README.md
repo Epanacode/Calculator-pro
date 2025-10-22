@@ -17,7 +17,7 @@ It includes basic arithmetic operations, a backspace, clear, decimal support, an
 
 ## Screenshots
 
-![Calculator Pro Screenshot](screenshot.png)  <!-- optional: add screenshot file in project -->
+![Calculator Pro Screenshot](https://github.com/Epanacode/Calculator-pro/blob/master/assets/2025-10-22%2001_38_08-calculator_pro.py%20-%20calculator_pro%20-%20Visual%20Studio%20Code.png?raw=true)  
 
 ---
 
