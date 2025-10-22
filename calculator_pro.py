@@ -55,7 +55,7 @@ def on_button_click(value):
     else:
         display.insert(tk.END, value)
 
-# تابع ساخت دکمه‌ها برای راحتی
+# تابع ساخت دکمه ها
 def make_button(text, row, col, color, colspan=1):
     tk.Button(
         root, text=text, font=button_font, fg="white",
